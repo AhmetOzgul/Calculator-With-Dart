@@ -64,7 +64,3 @@ void carpma(double sayi1, double sayi2) {
 void bolme({required bolunen, required double bolen}) {
   print("Bölüm: ${bolunen / bolen}");
 }
-<<<<<<< HEAD:odev.dart
-=======
- 
->>>>>>> a8dae2f5bb258294e89f348093a8a00a77b252ba:calculator.dart
